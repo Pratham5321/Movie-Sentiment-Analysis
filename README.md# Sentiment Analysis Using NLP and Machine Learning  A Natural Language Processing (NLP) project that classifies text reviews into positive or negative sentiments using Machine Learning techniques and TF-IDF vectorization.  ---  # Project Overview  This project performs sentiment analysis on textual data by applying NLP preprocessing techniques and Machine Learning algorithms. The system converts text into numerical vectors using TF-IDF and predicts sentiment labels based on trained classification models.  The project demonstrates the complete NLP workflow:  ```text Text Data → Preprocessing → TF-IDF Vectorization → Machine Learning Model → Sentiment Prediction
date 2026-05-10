@@ -1,0 +1,18 @@
+# Sentiment Analysis Using NLP and Machine Learning
+
+A Natural Language Processing (NLP) project that classifies text reviews into positive or negative sentiments using Machine Learning techniques and TF-IDF vectorization.
+
+---
+
+# Project Overview
+
+This project performs sentiment analysis on textual data by applying NLP preprocessing techniques and Machine Learning algorithms. The system converts text into numerical vectors using TF-IDF and predicts sentiment labels based on trained classification models.
+
+The project demonstrates the complete NLP workflow:
+
+```text
+Text Data
+→ Preprocessing
+→ TF-IDF Vectorization
+→ Machine Learning Model
+→ Sentiment Prediction
